@@ -24,6 +24,7 @@
 * Threejs
 * DataV
 * Echarts
+* Quartz
 
 ## How To Use
 
@@ -37,29 +38,20 @@ $ git clone https://github.com/GFLEE/warehouse-screen.git
 $ cd warehouse-screen
 
 # Install dependencies
-$ npm install
+$ yarn install
 
 # Run the app
-$ npm start
+$ yarn serve
 ```
 
 > **Note**
-> If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
+> No note here.
 
 ## Download
 
 ## Credits
 
 ## Related
-
-[markdownify-web](https://github.com/amitmerchant1990/markdownify-web) - Web version of Markdownify
-
-## Support
-
-## You may also like...
-
-- [Pomolectron](https://github.com/amitmerchant1990/pomolectron) - A pomodoro app
-- [Correo](https://github.com/amitmerchant1990/correo) - A menubar/taskbar Gmail App for Windows and macOS
 
 ## License
 
